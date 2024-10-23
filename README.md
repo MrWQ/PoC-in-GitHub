@@ -819,6 +819,7 @@
 - [entroychang/CVE-2024-4040](https://github.com/entroychang/CVE-2024-4040)
 - [safeer-accuknox/CrushFTP-cve-2024-4040-poc](https://github.com/safeer-accuknox/CrushFTP-cve-2024-4040-poc)
 - [geniuszlyy/GenCrushSSTIExploit](https://github.com/geniuszlyy/GenCrushSSTIExploit)
+- [rahisec/CVE-2024-4040](https://github.com/rahisec/CVE-2024-4040)
 
 ### CVE-2024-4231 (2024-05-10)
 
@@ -3880,6 +3881,7 @@
 - [Masamuneee/CVE-2024-32002-POC](https://github.com/Masamuneee/CVE-2024-32002-POC)
 - [th4s1s/CVE-2024-32002-PoC](https://github.com/th4s1s/CVE-2024-32002-PoC)
 - [Julian-gmz/hook_CVE-2024-32002](https://github.com/Julian-gmz/hook_CVE-2024-32002)
+- [grecosamuel/CVE-2024-32002](https://github.com/grecosamuel/CVE-2024-32002)
 
 ### CVE-2024-32004 (2024-05-14)
 
@@ -5538,6 +5540,9 @@
 ### CVE-2024-48415
 - [khaliquesX/CVE-2024-48415](https://github.com/khaliquesX/CVE-2024-48415)
 
+### CVE-2024-48605
+- [surajhacx/HelakuruV.1.1-DLLHijack](https://github.com/surajhacx/HelakuruV.1.1-DLLHijack)
+
 ### CVE-2024-48644
 - [rosembergpro/CVE-2024-48644](https://github.com/rosembergpro/CVE-2024-48644)
 
@@ -6401,6 +6406,7 @@
 - [thefizzyfish/CVE-2023-4220](https://github.com/thefizzyfish/CVE-2023-4220)
 - [qrxnz/CVE-2023-4220](https://github.com/qrxnz/CVE-2023-4220)
 - [0x00-null/Chamilo-CVE-2023-4220-RCE-Exploit](https://github.com/0x00-null/Chamilo-CVE-2023-4220-RCE-Exploit)
+- [bueno-armando/CVE-2023-4220-RCE](https://github.com/bueno-armando/CVE-2023-4220-RCE)
 
 ### CVE-2023-4226 (2023-11-28)
 
@@ -12733,6 +12739,7 @@
 - [thinkycx/activemq-rce-cve-2023-46604](https://github.com/thinkycx/activemq-rce-cve-2023-46604)
 - [mranv/honeypot.rs](https://github.com/mranv/honeypot.rs)
 - [pulentoski/CVE-2023-46604](https://github.com/pulentoski/CVE-2023-46604)
+- [cuanh2333/CVE-2023-46604](https://github.com/cuanh2333/CVE-2023-46604)
 
 ### CVE-2023-46615 (2024-02-12)
 
@@ -12762,6 +12769,7 @@
 - [RevoltSecurities/CVE-2023-46747](https://github.com/RevoltSecurities/CVE-2023-46747)
 - [vidura2/cve-2023-46747](https://github.com/vidura2/cve-2023-46747)
 - [rainbowhatrkn/CVE-2023-46747-RCE](https://github.com/rainbowhatrkn/CVE-2023-46747-RCE)
+- [Rizzler4562/CVE-2023-46747-Mass-RCE](https://github.com/Rizzler4562/CVE-2023-46747-Mass-RCE)
 
 ### CVE-2023-46805 (2024-01-12)
 
@@ -25565,7 +25573,6 @@
 - [Zyx2440/Apache-HTTP-Server-2.4.50-RCE](https://github.com/Zyx2440/Apache-HTTP-Server-2.4.50-RCE)
 - [0xc4t/CVE-2021-41773](https://github.com/0xc4t/CVE-2021-41773)
 - [jkska23/Additive-Vulnerability-Analysis-CVE-2021-41773](https://github.com/jkska23/Additive-Vulnerability-Analysis-CVE-2021-41773)
-- [nwclasantha/Apache_2.4.29_Exploit](https://github.com/nwclasantha/Apache_2.4.29_Exploit)
 
 ### CVE-2021-41784 (2022-08-29)
 
@@ -25621,6 +25628,7 @@
 - [robotsense1337/CVE-2021-42013](https://github.com/robotsense1337/CVE-2021-42013)
 - [xMohamed0/CVE-2021-42013-ApacheRCE](https://github.com/xMohamed0/CVE-2021-42013-ApacheRCE)
 - [asaotomo/CVE-2021-42013-Apache-RCE-Poc-Exp](https://github.com/asaotomo/CVE-2021-42013-Apache-RCE-Poc-Exp)
+- [rnsss/CVE-2021-42013](https://github.com/rnsss/CVE-2021-42013)
 - [jas9reet/CVE-2021-42013-LAB](https://github.com/jas9reet/CVE-2021-42013-LAB)
 - [mauricelambert/CVE-2021-42013](https://github.com/mauricelambert/CVE-2021-42013)
 - [honypot/CVE-2021-42013](https://github.com/honypot/CVE-2021-42013)
@@ -46480,7 +46488,6 @@
 - [chancej715/UnrealIRCd-3.2.8.1-Backdoor-Command-Execution](https://github.com/chancej715/UnrealIRCd-3.2.8.1-Backdoor-Command-Execution)
 - [FredBrave/CVE-2010-2075-UnrealIRCd-3.2.8.1](https://github.com/FredBrave/CVE-2010-2075-UnrealIRCd-3.2.8.1)
 - [JoseLRC97/UnrealIRCd-3.2.8.1-Backdoor-Command-Execution](https://github.com/JoseLRC97/UnrealIRCd-3.2.8.1-Backdoor-Command-Execution)
-- [nwclasantha/unreal_ircd_3281_backdoor_and_mitigation](https://github.com/nwclasantha/unreal_ircd_3281_backdoor_and_mitigation)
 
 ### CVE-2010-2387 (2012-12-21)
 
